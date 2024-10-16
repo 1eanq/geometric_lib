@@ -42,14 +42,19 @@ def perimeter(r):
     return 2 * math.pi * r
 ```
   ```
-  circle.perimetr(3)
+  circle.perimeter(3)
   ```
   ```
   18.8496
   ```
 ---
+```
+// Принимает сторону квадрата, возвращает периметр квадрата
+def perimeter(a):
+    return 4 * a
+```
   ```
-  square.perimetr(2)
+  square.perimeter(2)
   ```
   ```
   8
