@@ -28,15 +28,15 @@
   ```
 ---
   ```
-  circle.area(3)
+  circle.perimetr(3)
   ```
   ```
-  7.065
+  18.8496
   ```
 ---
   ```
-  square.area(2)
+  square.perimetr(2)
   ```
   ```
-  4
+  8
   ```
