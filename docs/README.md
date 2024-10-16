@@ -36,6 +36,11 @@ def area(a):
   4
   ```
 ---
+```
+//Принимает радиус окружности, возвращает длинну окружности
+def perimeter(r):
+    return 2 * math.pi * r
+```
   ```
   circle.perimetr(3)
   ```
